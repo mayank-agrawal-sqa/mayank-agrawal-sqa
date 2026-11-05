@@ -11,7 +11,7 @@ Senior Software Quality Engineer in Gurgaon, India. I make sure software works b
 
 | Project | What it is |
 | --- | --- |
-| [playwright-typescript-framework](https://github.com/Mack2281/playwright-typescript-framework) | UI and API test automation with Playwright and TypeScript: page objects, fixtures and CI. 15 tests, all passing. |
+| [playwright-python-framework](https://github.com/Mack2281/playwright-python-framework) | UI and API test automation with Playwright and Python: page objects, fixtures and CI. 16 tests, all passing. |
 | [selenium-pytest-framework](https://github.com/Mack2281/selenium-pytest-framework) | The same approach in Python: Selenium, PyTest, page objects, data-driven tests and CI. 12 tests, all passing. |
 | [ai-testcase-generator](https://github.com/Mack2281/ai-testcase-generator) | A command-line tool that turns a requirement into test cases with an AI model, with a person approving the assumptions first. |
 | [ai-qa-agent-architecture](https://github.com/Mack2281/ai-qa-agent-architecture) | How an AI agent takes a ticket to executed, evidence-backed test cases. Design only, no proprietary code. |
@@ -20,7 +20,7 @@ Senior Software Quality Engineer in Gurgaon, India. I make sure software works b
 
 ## What I work with
 
-Playwright, TypeScript, Selenium, Python, Postman, Jira, Azure DevOps, Git, and AI-assisted testing with LLMs and MCP.
+Playwright, Selenium, Python, Postman, Jira, Azure DevOps, Git, and AI-assisted testing with LLMs and MCP.
 
 ## Certifications
 
